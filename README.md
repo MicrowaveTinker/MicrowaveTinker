@@ -1,2 +1,2 @@
-I’m MicrowaveTinker  
-Just a man on a mission
+I’m MicrowaveTinker,
+Selflearned gamedeveloper
